@@ -1,3 +1,3 @@
 # Project lapak
 
-simpenan 
+simpenan CI
